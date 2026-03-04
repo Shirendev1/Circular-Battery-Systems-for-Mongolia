@@ -55,6 +55,24 @@ Strategic Feasibility – In Development
 Investment discussion ready
 Policy advisory ready
 
+# Circular Battery Systems for Mongolia
+
+## Vision
+Building a sustainable battery lifecycle system for Mongolia.
+
+## Goals
+- EV battery recycling
+- Resource recovery
+- Environmental protection
+
+## Roadmap
+2025–2030 development strategy
+
+## How to contribute
+Open issues or join discussions.
+
+
+
 ---
 
 This repository provides a structured, scenario-based foundation for circular battery infrastructure planning in Mongolia.
