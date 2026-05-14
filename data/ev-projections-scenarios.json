@@ -1,0 +1,89 @@
+{
+  "projection_metadata": {
+    "version": "1.0",
+    "generated_date": "2026-05-14",
+    "base_year": 2023,
+    "base_fleet": 1061,
+    "base_year_source": "UNESCAP Official / Ministry of Road & Transport",
+    "scenarios": ["low", "base", "high"]
+  },
+  "scenarios": {
+    "low": {
+      "label": "Low Growth (Conservative)",
+      "annual_growth_rate_percent": 22.5,
+      "assumptions": "Policy neutral, import constraints remain, limited charging infrastructure expansion",
+      "drivers": "Weak policy incentives, price barriers, infrastructure gaps",
+      "risk_level": "Low",
+      "investment_urgency": "Delayed",
+      "notes": "Favors modular infrastructure; reduces capital risk",
+      "projections": {
+        "2025": 1500,
+        "2026": 1838,
+        "2027": 2249,
+        "2028": 2753,
+        "2029": 3371,
+        "2030": 4125,
+        "2031": 5050,
+        "2032": 6185,
+        "2033": 7576,
+        "2034": 9277,
+        "2035": 11360
+      }
+    },
+    "base": {
+      "label": "Base Case (Moderate)",
+      "annual_growth_rate_percent": 37.5,
+      "assumptions": "Current policy continues, moderate charging infrastructure growth, stable import increase",
+      "drivers": "Policy continuity, gradual infrastructure development, moderate price competition",
+      "risk_level": "Medium",
+      "investment_urgency": "Moderate",
+      "notes": "Central scenario for planning; triggers phased approach",
+      "projections": {
+        "2025": 2000,
+        "2026": 2750,
+        "2027": 3779,
+        "2028": 5194,
+        "2029": 7141,
+        "2030": 9819,
+        "2031": 13500,
+        "2032": 18562,
+        "2033": 25523,
+        "2034": 35093,
+        "2035": 48253
+      }
+    },
+    "high": {
+      "label": "High Growth (Accelerated)",
+      "annual_growth_rate_percent": 55,
+      "assumptions": "Government incentives, EV price drop due to competition, rapid urban charging expansion",
+      "drivers": "Strong policy support, price reduction, charging network build-out, corporate adoption",
+      "risk_level": "High",
+      "investment_urgency": "Early industrial scaling",
+      "notes": "Creates aggressive waste timeline; requires early infrastructure deployment",
+      "projections": {
+        "2025": 3000,
+        "2026": 4650,
+        "2027": 7207,
+        "2028": 11171,
+        "2029": 17315,
+        "2030": 26838,
+        "2031": 41600,
+        "2032": 64480,
+        "2033": 99944,
+        "2034": 154914,
+        "2035": 240117
+      }
+    }
+  },
+  "strategic_implications": {
+    "low_scenario_impact": "→ Delays battery waste emergence by 2-3 years → Favors modular infrastructure → Extended investment window",
+    "base_scenario_impact": "→ Moderate waste surge post-2031 → 1,500t hub viable 2031-2032 → Scale decision gate 2033-2035",
+    "high_scenario_impact": "→ Earlier, steeper waste curve → Full-scale plant consideration post-2033 → Urgent policy & supply chain work"
+  },
+  "feeds_into": {
+    "issue_2": "Waste projection model (Battery End-of-Life volumes)",
+    "issue_4": "Plant capacity decision model (1,500t / 3,000t / 5,000t scenarios)",
+    "issue_6": "Financial feasibility model (CAPEX/OPEX/IRR)",
+    "issue_11": "Data validation (confirm baseline EV data)"
+  }
+}
