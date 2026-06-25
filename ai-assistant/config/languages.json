@@ -1,0 +1,24 @@
+{
+  "supportedLanguages": [
+    {
+      "code": "mn",
+      "name": "Mongolian",
+      "nativeName": "Монгол",
+      "direction": "ltr"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "direction": "ltr"
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "nativeName": "Čeština",
+      "direction": "ltr"
+    }
+  ],
+  "defaultLanguage": "en",
+  "fallbackLanguage": "en"
+}

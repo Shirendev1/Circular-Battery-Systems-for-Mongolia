@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "MCBI Smart Assistant",
+    "description": "Intelligent assistant for Mongolia's Circular Battery System",
+    "welcome": "Welcome!"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "features": "Features",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "buttons": {
+    "start": "Start",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "messages": {
+    "success": "Success",
+    "error": "An error occurred",
+    "loading": "Loading...",
+    "notFound": "Not found"
+  },
+  "mcbi": {
+    "title": "MCBI - Circular Battery Systems",
+    "description": "Strategic framework for Mongolia's circular battery lifecycle system",
+    "objectives": "Objectives",
+    "sustainability": "Sustainability",
+    "recycling": "Recycling",
+    "innovation": "Innovation"
+  }
+}
