@@ -41,7 +41,7 @@ To determine:
 
 ## Strategic Recommendation
 
-Phase 1 (2030–2033):
+Phase 1 (2026-2029):Laboratory and datd foundation 
 Deploy modular preprocessing hub (1,000–1,500 t/year)
 
 Phase 2 (Post-2033):
@@ -66,9 +66,9 @@ Building a sustainable battery lifecycle system for Mongolia.
 - Environmental protection
 
 ## Roadmap
-- 2026-2029:Laboratory, data collection, standards, end pilot testing 
-- 2030-3033:Modular preprocessing hub -1,000-1,500 tonnes/year
-
+- 2026-2029: Laboratory, data collection, standards, end pilot testing 
+- 2030-3033: Modular preprocessing hub -1,000-1,500 tonnes/year
+- post-2033: Conditional scaling end advanced material recovery 
 
 ## How to contribute
 Open issues or join discussions.
