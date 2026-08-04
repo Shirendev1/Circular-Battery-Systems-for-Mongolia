@@ -66,7 +66,9 @@ Building a sustainable battery lifecycle system for Mongolia.
 - Environmental protection
 
 ## Roadmap
-2025–2030 development strategy
+- 2026-2029:Laboratory, data collection, standards, end pilot testing 
+- 2030-3033:Modular preprocessing hub -1,000-1,500 tonnes/year
+
 
 ## How to contribute
 Open issues or join discussions.
