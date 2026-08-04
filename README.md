@@ -41,7 +41,7 @@ To determine:
 
 ## Strategic Recommendation
 
-Phase 1 (2026-2029):Laboratory and datd foundation 
+Phase 1 (2026-2029):Laboratory and data foundation 
 Deploy modular preprocessing hub (1,000–1,500 t/year)
 
 Phase 2 (Post-2033):
