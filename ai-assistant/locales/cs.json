@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "MCBI Inteligentní Asistent",
+    "description": "Inteligentní asistent pro mongolský Systém Cirkulárních Baterií",
+    "welcome": "Vítejte!"
+  },
+  "navigation": {
+    "home": "Domů",
+    "about": "O nás",
+    "features": "Funkce",
+    "contact": "Kontakt",
+    "language": "Jazyk"
+  },
+  "buttons": {
+    "start": "Začít",
+    "submit": "Odeslat",
+    "cancel": "Zrušit",
+    "save": "Uložit",
+    "delete": "Smazat",
+    "edit": "Upravit"
+  },
+  "messages": {
+    "success": "Úspěch",
+    "error": "Došlo k chybě",
+    "loading": "Načítání...",
+    "notFound": "Nenalezeno"
+  },
+  "mcbi": {
+    "title": "MCBI - Systémy Cirkulárních Baterií",
+    "description": "Strategický rámec pro mongolský systém životního cyklu cirkulárních baterií",
+    "objectives": "Cíle",
+    "sustainability": "Udržitelnost",
+    "recycling": "Recyklace",
+    "innovation": "Inovace"
+  }
+}

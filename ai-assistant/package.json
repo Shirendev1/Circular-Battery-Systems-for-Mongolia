@@ -1,0 +1,35 @@
+{
+  "name": "mcbi-multilingual-assistant",
+  "version": "1.0.0",
+  "description": "Multilingual AI assistant for Mongolia's Circular Battery Initiative with support for Mongolian, English, and Czech",
+  "main": "src/assistant.js",
+  "scripts": {
+    "start": "node examples/usage.js",
+    "test": "jest",
+    "dev": "nodemon examples/usage.js"
+  },
+  "keywords": [
+    "mcbi",
+    "multilingual",
+    "ai-assistant",
+    "i18n",
+    "mongolian",
+    "english",
+    "czech",
+    "battery",
+    "circular-economy"
+  ],
+  "author": "Shirendev1",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shirendev1/Circular-Battery-Systems-for-Mongolia.git"
+  }
+}
