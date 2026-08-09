@@ -1,6 +1,9 @@
 
 # Circular Battery Systems for Mongolia
 
+## Vision
+Building a sustainable battery lifecycle system for Mongolia.
+
 ## Executive Overview
 
 Mongolia is entering an early but accelerating phase of electric vehicle (EV) adoption.  
@@ -41,39 +44,22 @@ To determine:
 
 ## Strategic Recommendation
 
-Phase 1 (2026-2029):Laboratory and data foundation 
-Deploy modular preprocessing hub (1,000–1,500 t/year)
+**Phase 1 (2026–2029):** Laboratory and data foundation. Deploy modular preprocessing hub (1,000–1,500 t/year).
 
-Phase 2 (Post-2033):
-Scale only if sustained waste exceeds 3,000 t/year
+**Phase 2 (Post-2033):** Scale only if sustained waste exceeds 3,000 t/year.
 
 ---
 
 ## Project Status
 
 Strategic Feasibility – In Development  
-Investment discussion ready
+Investment discussion ready  
 Policy advisory ready
 
-# Circular Battery Systems for Mongolia
+---
 
-## Vision
-Building a sustainable battery lifecycle system for Mongolia.
-
-## Goals
-- EV battery recycling
-- Resource recovery
-- Environmental protection
-
-## Roadmap
-- 2026-2029: Laboratory, data collection, standards, end pilot testing 
-- 2030-3033: Modular preprocessing hub -1,000-1,500 tonnes/year
-- post-2033: Conditional scaling end advanced material recovery 
-
-## How to contribute
+## How to Contribute
 Open issues or join discussions.
-
-
 
 ---
 
