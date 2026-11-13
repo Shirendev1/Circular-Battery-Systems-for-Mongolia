@@ -57,7 +57,7 @@ Over 18 months, the project will establish one pilot center and a limited collec
 
 ## 2.1 Pressing Issues
 
-- More than 77% of Mongolia’s territory is currently affected by land degradation, and an uncontrolled flow of end-of-life batteries risks accelerating this degradation further.
+- About 76.9% of Mongolia’s land area is affected by desertification and land degradation (UNDP Mongolia, 2020 data). Uncontrolled disposal of end-of-life batteries adds soil and water pollution risks to land that is already under pressure.
 
 - Mongolia currently has no legal framework for mandatory battery collection, take-back, or Extended Producer Responsibility (EPR) for manufacturers/importers, so the flow continues to accumulate unregulated.
 
