@@ -16,7 +16,7 @@ Mongolia currently:
 
 - Does not have a dedicated battery regulation framework
 - Lacks a mandatory Extended Producer Responsibility (EPR) system
-- Has no battery passport or lifecycle traceability system
+- Has no official battery passport or lifecycle traceability system (MCBI runs a non-official pilot registry: passport.mcbis.org)
 - Has limited structured battery recycling infrastructure
 
 ## 3. Regulatory Gap Assessment
@@ -26,7 +26,7 @@ Mongolia currently:
 | Carbon Footprint Reporting | Not required | High |
 | Recycled Content Targets | Not defined | High |
 | Battery Passport | Not implemented | High |
-| EPR System | Developing | Medium |
+| EPR System | No EPR law yet; an independent MCBI proposal and a pilot registration system exist (not official) | High |
 | Collection Targets | Undefined | High |
 
 ## 4. Strategic Alignment Opportunity
