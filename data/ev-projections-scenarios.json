@@ -5,7 +5,15 @@
     "base_year": 2023,
     "base_fleet": 1061,
     "base_year_source": "UNESCAP Official / Ministry of Road & Transport",
-    "scenarios": ["low", "base", "high"]
+    "scenarios": [
+      "low",
+      "base",
+      "high"
+    ],
+    "data_quality_notes": [
+      "Observed fleet in October 2025 was 2,011 EVs (Ministry of Road and Transport, UNESCAP session 2.1). The low scenario value for 2025 (1,500) is below this observed figure and should be re-based in the next model update.",
+      "Projections are scenario estimates, not forecasts."
+    ]
   },
   "scenarios": {
     "low": {
