@@ -13,8 +13,8 @@ Battery supply is primarily import-dependent, including:
 ## 2. Structural Gaps
 
 - No formal national battery collection system
-- Limited recycling infrastructure
-- Absence of traceability mechanisms
+- Limited recycling infrastructure: a lead-acid battery recycling plant (Electrochem Mongol, Nalaikh) started operating in 2024, but there is no lithium-ion battery recycling plant
+- Absence of official traceability mechanisms
 - Environmental and soil contamination risks
 
 ## 3. Emerging Drivers
